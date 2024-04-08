@@ -1,0 +1,31 @@
+#googlelens, #mobilenet{
+    width: 200px;
+    height: 200px;
+}
+
+.test_image_and_result{
+    background-color: grey;
+}
+
+.final b{
+    color: darkblue;
+}
+
+h5,b{
+    background-color: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+span{
+    color: red;
+}
+
+b{
+    color: darkblue;
+}
+
+h4{
+    font-weight: bolder;
+    font-size: 25px;
+}
